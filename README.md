@@ -48,7 +48,7 @@ Detect It Easy supports a wide range of executable and archive types, including:
 -   **Amiga** (Executable format for Amiga computers)
 -   **Binary** (Other unclassified files)
 
-And that's not all... The list is expanding as the tool is updated
+And that's not all... The list is expanding as the tool is updated.
 
 Unknown formats undergo heuristic analysis, providing identification for both known and unrecognized files.
 
